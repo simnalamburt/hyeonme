@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/simnalamburt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hyeon.me
+  * I am simnalamburt (https://keybase.io/simnalamburt) on keybase.
+  * I have a public key ASCVtlJFeyn8UZuB91UuFgzTNixz1l2sOoj6VTxNeEHrTAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012095b652457b29fc519b81f7552e160cd3362c73d65dac3a88fa553c4d7841eb4c0a",
+            "host": "keybase.io",
+            "kid": "012095b652457b29fc519b81f7552e160cd3362c73d65dac3a88fa553c4d7841eb4c0a",
+            "uid": "35407fadfb7567ba46a416803ba98c19",
+            "username": "simnalamburt"
+        },
+        "service": {
+            "hostname": "hyeon.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1460006417,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1460006397,
+        "hash": "d2d0313d5cee4842aad4fd7415cafd1b462e6344d4a80b3b99c6dd8391ec69b4b514f7b6d09da484762e889d866a341e3fc3c8b43f751a764e29b35007884feb",
+        "seqno": 433386
+    },
+    "prev": "d15c21499bb2a56585d279692edc48437dac38a973f9de62ede795b93a00a17b",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglbZSRXsp/FGbgfdVLhYM0zYsc9ZdrDqI+lU8TXhB60wKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTViNjUyNDU3YjI5ZmM1MTliODFmNzU1MmUxNjBjZDMzNjJjNzNkNjVkYWMzYTg4ZmE1NTNjNGQ3ODQxZWI0YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTViNjUyNDU3YjI5ZmM1MTliODFmNzU1MmUxNjBjZDMzNjJjNzNkNjVkYWMzYTg4ZmE1NTNjNGQ3ODQxZWI0YzBhIiwidWlkIjoiMzU0MDdmYWRmYjc1NjdiYTQ2YTQxNjgwM2JhOThjMTkiLCJ1c2VybmFtZSI6InNpbW5hbGFtYnVydCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaHllb24ubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ2MDAwNjQxNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYwMDA2Mzk3LCJoYXNoIjoiZDJkMDMxM2Q1Y2VlNDg0MmFhZDRmZDc0MTVjYWZkMWI0NjJlNjM0NGQ0YTgwYjNiOTljNmRkODM5MWVjNjliNGI1MTRmN2I2ZDA5ZGE0ODQ3NjJlODg5ZDg2NmEzNDFlM2ZjM2M4YjQzZjc1MWE3NjRlMjliMzUwMDc4ODRmZWIiLCJzZXFubyI6NDMzMzg2fSwicHJldiI6ImQxNWMyMTQ5OWJiMmE1NjU4NWQyNzk2OTJlZGM0ODQzN2RhYzM4YTk3M2Y5ZGU2MmVkZTc5NWI5M2EwMGExN2IiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAl9RLNvVvsUUQb2uNKtS1kv86jzMLrAJpdgtD0wviDTxjeM4/pM43OneE5V8U7pfDQYuHR985Luoj2UPRYX7sDqhzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simnalamburt
+
+==================================================================
